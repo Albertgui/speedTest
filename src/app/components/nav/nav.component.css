@@ -1,0 +1,10 @@
+.nav {
+  height: 80px;
+  background-color: whitesmoke;
+}
+
+.picture-fibex {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
